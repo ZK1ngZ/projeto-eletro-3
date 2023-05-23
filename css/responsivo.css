@@ -7,11 +7,18 @@
   .secao{
     width: 50%;
   }
+  
   .jbl-fone{
     height: 180px;
    
   }
- 
+ .secao2{
+  margin-left: 170px;
+ }
+ .txt{
+  margin-left: 100px;
+  width: 400px;
+ }
 }
 
 @media (max-width: 600px){
@@ -32,6 +39,14 @@
       transition: left 0.3s ease-out;
   }
 
+  .secao2{
+    margin-left: 150px;
+  }
+
+  .txt{
+    margin-left: 100px;
+    width: 400px;
+  }
 .iphone2{
   margin-left: 60px;
   margin-top: 20px;
@@ -99,6 +114,13 @@ margin-top: 20px;
     width: 33%;
   }
 
+  .secao2{
+    margin-left: 530px;
+  }
+
+  .txt{
+    margin-left: 500px;
+  }
 }
 
 .secao{
